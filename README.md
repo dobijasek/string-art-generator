@@ -1,5 +1,5 @@
 ## Efekt po 10000 iteracjach
-![panorma](images/panorma.jpg]
+![panorma](images/panorma.jpg)
 
 ## String Art Generator
 Generator String Art, który wyewoluował z prostej chęci stworzenia unikalnego prezentu. Projekt łączy w sobie zagadnienia z zakresu przetwarzania obrazu, optymalizacji wydajności oraz matematyki stosowanej. 
